@@ -1,0 +1,25 @@
+newmtl CONCRETE
+Kd 0.62 0.62 0.6
+Ks 0.0 0.0 0.0
+Ns 40
+
+newmtl WOOD
+Kd 0.71 0.46 0.25
+Ks 0.05 0.05 0.05
+Ns 40
+
+newmtl STEEL
+Kd 0.78 0.8 0.83
+Ks 0.6 0.6 0.6
+Ns 40
+
+newmtl FLOOR
+Kd 0.86 0.83 0.77
+Ks 0.1 0.1 0.1
+Ns 40
+
+newmtl WALL
+Kd 0.93 0.91 0.87
+Ks 0.0 0.0 0.0
+Ns 40
+
